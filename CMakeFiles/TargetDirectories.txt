@@ -1,0 +1,3 @@
+/home/xubuntu/CLionProjects/SnapDocLib/CMakeFiles/SnapDocLib.dir
+/home/xubuntu/CLionProjects/SnapDocLib/CMakeFiles/edit_cache.dir
+/home/xubuntu/CLionProjects/SnapDocLib/CMakeFiles/rebuild_cache.dir
